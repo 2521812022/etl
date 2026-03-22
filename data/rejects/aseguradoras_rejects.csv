@@ -1,0 +1,3 @@
+id_aseguradora,nombre,pais,rating_riesgo,motivo_rechazo
+6,Aseguradora 6,,Medio,datos_maestros_incompletos
+9,Aseguradora 9,,Bajo,datos_maestros_incompletos
